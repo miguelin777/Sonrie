@@ -157,7 +157,7 @@ cardsTest.forEach((card) => card.addEventListener("click", textActive));
 // Typed.js ==========
 var typed = new Typed("#typed", {
   strings: ["Sonríe", "El Mejor Equipo"],
-  typeSpeed: 70,
+  typeSpeed: 71,
   backSpeed: 100,
   backDelay: 700,
   loop: true,
